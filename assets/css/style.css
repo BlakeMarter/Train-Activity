@@ -1,0 +1,23 @@
+.jumbotron {
+    background-color: #343a40
+}
+
+label{
+    margin-left: 1rem;
+    color: black;
+}
+
+.form-control {
+    width: 97%;
+    margin-left: 1rem;
+}
+
+.btn {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+} 
+
+.card-header {
+    background-color: #343a40;
+    margin-bottom: 1rem;
+}
